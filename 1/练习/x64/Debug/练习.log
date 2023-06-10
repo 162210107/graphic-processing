@@ -1,0 +1,35 @@
+﻿  deal.cpp
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(901,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(902,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(933,17): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(937,17): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(941,17): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1056,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1057,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1058,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1059,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1060,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1061,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1062,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1063,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1139,24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1140,24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1171,21): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1175,21): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1179,21): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1518,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1518,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1518,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1518,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1522,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1522,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1522,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1522,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1555,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1571,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1579,28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1602,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1698,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1742,12): warning C4101: “temp”: 未引用的局部变量
+C:\Users\蔡蕾\Desktop\修图软件\练习\deal.cpp(1766,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  练习.vcxproj -> C:\Users\蔡蕾\Desktop\修图软件\x64\Debug\练习.exe
